@@ -1,7 +1,6 @@
 profiles
 docs
 .roambuild
-version.txt
 .idea
 .coverage
 .deps
